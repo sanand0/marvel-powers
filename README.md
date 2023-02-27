@@ -33,3 +33,21 @@ Each character may have multiple power levels. For example,
 has a strength level of 2 (Normal) without the Iron Man suit, and a strength level of 6 (Superhuman - 75-100 tons) with it.
 
 The latest update is as of 27 Feb 2023. The dataset contains 2,899 characters, scraping ~113 pages.
+
+## Strongest Avenger
+
+According to this list, the strongest Avengers are:
+
+- [Iron Man](https://marvel.fandom.com/wiki/Anthony_Stark_(Earth-616)) - 33
+- [Thor](https://marvel.fandom.com/wiki/Thor_Odinson_(Earth-616)) - 32
+- [Hulk](https://marvel.fandom.com/wiki/Bruce_Banner_(Earth-616)) - 32
+- [James Rhodes (War Machine)](https://marvel.fandom.com/wiki/James_Rhodes_(Earth-616)) - 30
+- [Captain Marvel](https://marvel.fandom.com/wiki/Carol_Danvers_(Earth-616)) - 28
+
+The weakest Avengers are:
+
+- [Rocket Raccoon](https://marvel.fandom.com/wiki/Rocket_Raccoon_(Earth-616)) - 14
+- [Samuel Wilson](https://marvel.fandom.com/wiki/Samuel_Wilson_(Earth-616)) - 14
+- [Clint Barton (Hawkeye)](https://marvel.fandom.com/wiki/Clinton_Barton_(Earth-616)) - 16
+- [Steve Rogers (Captain America)](https://marvel.fandom.com/wiki/Steven_Rogers_(Earth-616)) - 18
+- [Peter Parker (Spiderman)](https://marvel.fandom.com/wiki/Peter_Parker_(Earth-616)) - 19
