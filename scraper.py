@@ -61,7 +61,10 @@ def scrape():
         sort=True,
     )
     powers.columns = [" ".join(col).strip() for col in powers.columns.values]
-    powers.reset_index().to_csv("marvel-powers-summary.csv", index=False)
+    powers = powers.reset_index()
+    powers.to_csv("marvel-powers-summary.csv", index=False)
+    with open("marvel-powers-summary.json", "w") as handle:
+        handle.write(powers.to_json(orient="records", indent=2))
 
 
 if __name__ == "__main__":

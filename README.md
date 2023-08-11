@@ -27,6 +27,7 @@ and saves it as 2 CSV files:
    - `max Intelligence`: Maximum character intelligence level
    - `max Speed`: Maximum character speed level
    - `max Strength`: Maximum character strength level
+3. [`marvel-powers-summary.json`](marvel-powers-summary.json) has the same data as `marvel-powers-summary.csv` in JSON format.
 
 Each character may have multiple power levels. For example,
 [Anthony Stark (Earth-616)](https://marvel.fandom.com/wiki/Anthony_Stark_(Earth-616)#Powers)
